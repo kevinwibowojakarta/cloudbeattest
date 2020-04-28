@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="PayfazzTestSuite" configfailurepolicy="continue">
+	<test name="RegressionBasic" >
+		<classes>
+
+
+		 <class name="testcase.UserCredential.Onboarding"></class>
+
+   
+
+
+		</classes>
+	</test>
+</suite>
